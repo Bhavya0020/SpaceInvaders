@@ -2,6 +2,8 @@ import pygame
 import random
 import math
 from pygame import mixer
+import os
+os.environ['SDL_VIDEODRIVER']='windib'
 
 LENGTH = 600
 BREADTH = 1000

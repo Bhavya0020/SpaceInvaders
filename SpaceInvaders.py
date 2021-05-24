@@ -18,8 +18,8 @@ pygame.display.set_icon(icon)
 bg = pygame.image.load("./SpaceBG.jpeg")
 
 # Music
-mixer.music.load("./SpaceMusic.mp3")
-mixer.music.play(-1)
+# mixer.music.load("./SpaceMusic.mp3")
+# mixer.music.play(-1)
 
 # Enemy
 EnemyImg = []
